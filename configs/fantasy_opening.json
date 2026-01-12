@@ -1,4 +1,4 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "changelog": "<align=center><size=140%><b>Fantasy Opening</b></size></align>\n\n<size=110%><b>Phiên bản mới nhất:</b> <color=#FFD966>0.0.8</color></size>\n\n<b>Cập nhật 0.0.8</b>\n<indent=5%>• <b>Hotfix</b> đa số các loại quái bị <color=#FF6B6B>bất động</color> <i>(lỗi nghiêm trọng)</i>.</indent>\n\n<size=110%><b>Phiên bản trước:</b> <color=#CCCCCC>0.0.7</color></size>\n\n<b>Các thay đổi gồm:</b>\n<indent=5%>• <b>Hotfix</b> nút <color=#FF6B6B>\"ESC\"</color>.\n• Thêm màn hình <color=#6FA8DC>\"Thay đổi giữa các phiên bản\"</color>.</indent>"
 }
